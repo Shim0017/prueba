@@ -32,6 +32,7 @@ public class PruebaGithub {
         
         // TODO code application logic here
       ballenitatumama();
+      ballenitatumama();
     }
     
 }
