@@ -32,6 +32,11 @@ public class PruebaGithub {
                 JOptionPane.showMessageDialog(null, "TU MAMA ES LA SAMI");
             }
         }
+        
+    }
+    
+    public static void resta(){
+        
     }
     
     public static void main(String[] args) {  
